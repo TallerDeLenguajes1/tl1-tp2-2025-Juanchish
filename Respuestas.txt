@@ -1,0 +1,8 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No, debido a que ese archivo lo creé en la rama "Opcion_2"
+
+En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+Veo el commit de Respuestas.txt en main
+
+En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+Veo como se combinaron ambas ramas, el archivo tp2_1_2.c ahora está en main
