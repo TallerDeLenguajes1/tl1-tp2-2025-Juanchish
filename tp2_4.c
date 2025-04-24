@@ -30,7 +30,7 @@ int main()
     }
 
     listarPCs(pc, 5);
-    //mostrarMasVieja(pc, 5);
+    mostrarMasVieja(pc, 5);
     mostrarMasVeloz(pc,5);
 
     return 0;
